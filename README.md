@@ -22,10 +22,9 @@ Repository này chứa mã nguồn cho đồ án giữa kỳ, tập trung vào v
 
 ## 📁 Cấu trúc Repository
 ```├── _results_files/ # (Dự kiến) Lưu trữ các kết quả, đồ thị, mô hình đã huấn luyện (.pth)
-├── processed/ # (Dự kiến) Lưu trữ dữ liệu đã được tiền xử lý (.npz)
+├── processed/ # Lưu trữ dữ liệu đã được tiền xử lý (.npz)
 ├── LeAnhTuan_giuaky.ipynb # Notebook chính chứa toàn bộ mã nguồn và quy trình
-├── README.md # Tài liệu hướng dẫn này
-└── requirements.txt # (Nên tạo) Danh sách các thư viện cần thiết
+└── README.md # Tài liệu hướng dẫn này
 ```
 
 ## 📊 Dữ liệu
